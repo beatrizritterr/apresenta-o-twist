@@ -1,0 +1,120 @@
+div.box2{
+    height: 230em;
+    width: 67em;
+    font-size: 14pt;
+    color:rgb(44, 11, 11);
+    margin: 1px;
+    padding: 5px;
+    
+}
+
+.box3{
+    height: 15em;
+    width: 28em;
+    font-size: 18pt;
+    text-align: center;
+    color:rgb(44, 11, 11);
+    background-color: rgb(255, 229, 212);
+    border: 2px solid  #500202;
+    margin: 1px;
+    padding: 5px;  
+    
+}
+
+.box31{
+    height: 50em;
+    width: 38em;
+    font-size: 18pt;
+    text-align: center;
+    color:rgb(44, 11, 11);
+    background-color: rgb(243, 202, 179);
+    border: 2px solid  #500202;
+    margin: 1px;
+    padding: 5px;
+}
+
+.box32{
+    height: 59em;
+    width: 38em;
+    font-size: 18pt;
+    text-align: center;
+    color:rgb(44, 11, 11);
+    background-color: rgb(236, 214, 201);
+    border: 2px solid  #500202;
+    margin: 1px;
+    padding: 5px;
+}
+
+h1{
+    text-align: center;
+    font-size: 20pt;
+}
+
+.d2{
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    gap: 10px;
+}
+
+.d2 img{
+    object-fit: cover;
+}
+
+#im1{
+    height: 300px;
+    width: 400px;
+}
+
+#im2{
+    height: 680px;
+    width: 400px;
+
+}
+
+#mom{
+    height: 300px;
+    width: 300px;
+}
+
+#pap{
+    height: 300px;
+    width: 300px;
+    
+}
+
+#ff{
+    height: 300px;
+    width: 400px;
+}
+
+#fff{
+    height: 300px;
+    width: 350px;
+}
+
+#ss{
+    height: 230px;
+    width: 250px;
+}
+
+#flor{
+    height: 210px;
+    width: 200px;
+}
+
+#an{
+    height: 190px;
+    width: 180px;
+}
+
+#av{
+    height: 260px;
+    width: 200px;
+}
+
+.centro {
+  display: flex;
+  justify-content: center; 
+  align-items: center;    
+}
